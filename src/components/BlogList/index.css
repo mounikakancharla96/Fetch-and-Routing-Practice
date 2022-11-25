@@ -1,0 +1,10 @@
+.blog-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+  max-width: 1120px;
+  padding-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
